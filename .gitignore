@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 *.part
 .venv/
+*.mp4
+*.mov
+*.wav
+!projects/**/music/*.wav
+work/
